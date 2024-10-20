@@ -1,5 +1,5 @@
 
-# Nvidia Stock Price Prediction using LSTM
+# Nvidia Stock Price Prediction using CNN and LSTM
 
 ## Project Description
 
