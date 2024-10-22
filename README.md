@@ -89,18 +89,6 @@ The goals of this project are:
 
 ### Actual vs Prediction Results:
 
-**- LSTM:**
-
-![output(LSTM)](https://github.com/user-attachments/assets/6f3287ac-1698-4eda-a697-d01d92e9d010)
-
-**Calculated Matrices:**
-
-- Mean Squared Error (MSE): 3.399395413605312
-- Root Mean Squared Error (RMSE): 1.843744942665691
-- Mean Absolute Error (MAE): 1.2186561350765386
-- R-squared (R²): 0.9742695207142454
-
-
 **- CNN:**
 
 ![output(CNN)](https://github.com/user-attachments/assets/53c45eb3-b5ed-4611-ba25-615a11a85724)
@@ -111,6 +99,17 @@ The goals of this project are:
 - Root Mean Squared Error (RMSE): 1.3992711353202008
 - Mean Absolute Error (MAE): 1.0133344554842056
 - R-squared (R²): 0.9857122381643261
+
+**- LSTM:**
+
+![output(LSTM)](https://github.com/user-attachments/assets/6f3287ac-1698-4eda-a697-d01d92e9d010)
+
+**Calculated Matrices:**
+
+- Mean Squared Error (MSE): 3.399395413605312
+- Root Mean Squared Error (RMSE): 1.843744942665691
+- Mean Absolute Error (MAE): 1.2186561350765386
+- R-squared (R²): 0.9742695207142454
 
 ## Conclusion
 
